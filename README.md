@@ -3,13 +3,13 @@
 A simple and interactive **To-Do List application** built with **React.js**.  
 This project allows users to manage their daily tasks easily by adding, completing, and deleting tasks.  
 
-👉 [Live Demo (if hosted)](https://to-do-list-by-react-pi.vercel.app/)
+👉 [Live Demo](https://to-do-list-by-react-pi.vercel.app/)
 
 ---
 
 ## 📸 Preview
 <!-- Add a screenshot here -->
-![App Preview](![alt text](./preview-image.png))
+![alt text](./preview-image.png)
 
 ---
 

@@ -1,3 +1,6 @@
+html[lang="ar"]{
+  direction: rtl;
+}
 .App {
   text-align: center;
 }
@@ -36,3 +39,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*===== CASTUM FONTS====== */
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/fonts/Alexandria-Bold.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/fonts/Alexandria-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: Alexandria;
+  src: url("/public/fonts/Alexandria-Regular.ttf");
+  font-weight: normal;
+}
+/*=====// CASTUM FONTS //====== */

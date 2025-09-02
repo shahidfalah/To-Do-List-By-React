@@ -1,0 +1,18 @@
+body {
+    color: #fff !important;
+    background-color: #222222;
+}
+.Card-style{
+    background-color:#222 !important;
+    color:"text.primary" !important;
+    border:none !important;
+    border-bottom:0.4px solid #a5a5a587 !important;
+    border-radius:0 !important;
+    display:flex !important;
+    justify-content:space-between !important;
+    transition: all 0.3s !important;
+}
+.Card-style:hover{
+    background-color:#1b1a1a8d !important;
+
+}
